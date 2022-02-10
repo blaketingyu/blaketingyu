@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Blake
 I am a Sophomore Student Majoring in Computer Science at the National University of Singapore
 
-👶 Sophomore At [National University of Singapore] (https://www.nus.edu.sg/).
+👶 Sophomore At [National University of Singapore](https://www.nus.edu.sg/)
 
 🖥️ Majoring in Computer Science (w/ Hons).
 
