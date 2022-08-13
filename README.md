@@ -1,16 +1,14 @@
-### Hi there 👋, My name is Blake
-I am a Sophomore Student Majoring in Computer Science at the National University of Singapore
+<div align="center">
+<h1 align="center">Hi I'm Blake<img width="35" src="https://github.com/blaketingyu/main/resources/img/melt.gif">, </h1>
+<h4 align="center">A Penultimate Computer Science Student at NUS</h4>
+</div>
 
-👶 Sophomore At [National University of Singapore](https://www.nus.edu.sg/)
-
-🖥️ Majoring in Computer Science (w/ Hons).
-
-💕 Aspiring Software Engineer
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/blaketingyu)  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/blaketantingyu/)  
-
+<div align="center">
+ 
+  <img  src="https://github.com/blaketingyu/main/resources/img/grid-snake.svg" alt="snake" /> 
+  
+</div>
+<a href="https://blaketantingyu.netlify.app/"> Check out my portfolio site for more information</a>
 
 
 
