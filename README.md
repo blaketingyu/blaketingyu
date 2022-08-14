@@ -16,8 +16,6 @@
 - :thinking: I’m currently open for: `An Internship position` or a new `job opportunity`
 - :nerd_face: Always `learning new things`
 
-<a href= "https://blaketantingyu.netlify.app/">Here's my portfolio website if you're interested to make friends or collaborate with me!</a>
-
 <a href="https://www.linkedin.com/in/blaketantingyu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
