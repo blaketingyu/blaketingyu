@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
- <a href = "https://blaketantingyu.netlify.app/" target="_blank">
+ <a href = "https://blaketantingyu.netlify.app/" target="_blank" rel="noopener noreferrer">
   <img  src="https://github.com/blaketingyu/blaketingyu/blob/main/resources/images/grid-snake.svg" alt="snake" /> 
   </a>
 </div>
