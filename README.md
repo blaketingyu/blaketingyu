@@ -4,9 +4,9 @@
 </div>
 
 <div align="center">
- 
+ <a href = "https://blaketantingyu.netlify.app/">
   <img  src="https://github.com/blaketingyu/blaketingyu/blob/main/resources/images/grid-snake.svg" alt="snake" /> 
-  
+  </a>
 </div>
 
 ## :sassy_man:  About me
