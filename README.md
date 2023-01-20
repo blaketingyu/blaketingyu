@@ -9,14 +9,6 @@
   </a>
 </div>
 
-## :sassy_man:  About me
-- :school: I am a `Penultimate student` from the National University of Singapore majoring in Computer Science
-- :technologist: I have strong interest in Software development. 
-- :student: I’m currently learning: `Software Engineering`, mainly `Web Development` and `Computer Security`.
-- :thinking: I’m currently open for: `An Internship position` or a new `job opportunity`
-- :nerd_face: Always `learning new things`
-
-<a href="https://www.linkedin.com/in/blaketantingyu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 
